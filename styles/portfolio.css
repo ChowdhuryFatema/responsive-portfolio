@@ -186,7 +186,10 @@
         padding: 70px 20px;
     }
     .resume-main-title{
-        margin-bottom: 30px;
+        margin-bottom: 50px;
+    }
+    .connect-title-rs{
+        font-size: 30px;
     }
 }
 @media screen and (min-width:577px) and (max-width:992px) {
