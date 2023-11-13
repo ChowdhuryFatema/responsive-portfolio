@@ -1,4 +1,4 @@
-## Responsive Portfolio
+# Responsive Portfolio
 Author - Fatema Chowdhury
 ## Live Link
 https://chowdhuryfatema.github.io/responsive-portfolio/
